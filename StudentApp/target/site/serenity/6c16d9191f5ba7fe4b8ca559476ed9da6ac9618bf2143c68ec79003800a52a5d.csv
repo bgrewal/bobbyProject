@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","This is atest with error","ERROR","2019-06-03T23:17:52.564-07:00","0.0","0.14"
+"First serenity test","This isa failing","FAILURE","2019-06-03T23:17:53.318-07:00","0.0","0.21"
+"Students CRUD test","Verify if the student was added to the application","ERROR","2019-06-03T23:17:54.764-07:00","0.0","0.78"

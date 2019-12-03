@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","Get all students","SUCCESS","2019-06-03T23:17:53.698-07:00","0.0","0.23"
+"Students CRUD test","This test will create a new student","SUCCESS","2019-06-03T23:17:54.053-07:00","0.0","0.71"
+"First serenity test","This test will get the information of all the students from the Student App","SUCCESS","2019-06-03T23:17:52.704-07:00","0.0","0.21"

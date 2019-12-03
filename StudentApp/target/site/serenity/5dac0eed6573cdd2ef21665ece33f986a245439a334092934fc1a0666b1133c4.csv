@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Second serenity test","Get all students","SUCCESS","2019-06-03T23:17:49.990-07:00","0.0","0.18"
+"Second serenity test","This test will get the information of all the students from the Student App","SUCCESS","2019-06-03T23:17:43.026-07:00","0.0","5.86"
